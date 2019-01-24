@@ -1,0 +1,9 @@
+	Labeling		Label-free	
+Year	Tech	MS Level	Tech	MS Level
+1899~1911	1st mass spectrometer			
+1918	1st modern mass spectrometer			
+1999	ICAT	MS		
+2002	SILAC	Both	PAI	MS/MS
+2003	TMT	MS/MS		
+2004	iTRAQ	MS/MS	PMSS/SpS	MS/MS
+2005			emPAI	MS/MS

@@ -1,3 +1,16 @@
+# wenching
+git.push.sh
+git_push.sh
+gitignore.txt
+
+# WingIDE
+*.wp[ru]
+
+# Mac
+.DS_Store
+._*
+
+
 # History files
 .Rhistory
 .Rapp.history
@@ -30,7 +43,8 @@ vignettes/*.pdf
 
 # Temporary files created by R markdown
 *.utf8.md
-*.knit.md
+# *.knit.md
 
 # Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
 rsconnect/
+ProteomeXchange/PXD000001/TMT_Erwinia_1uLSike_Top10HCD_isol2_45stepped_60min_01.mzXML

@@ -1,0 +1,2 @@
+VignetteBuilder: knitr
+Suggests: BiocStyle, knitr, rmarkdown

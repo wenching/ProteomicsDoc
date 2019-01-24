@@ -1,0 +1,6 @@
+category	label-free	labelled
+machine time	more	less
+wet lab complexity & time	little	medium
+comparability of samples	difficult	easy
+data analysis	complex	complex
+study design	flexible	fixed
